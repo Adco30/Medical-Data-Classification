@@ -1,6 +1,8 @@
 ## Classification Comparison and fusion: SVM, Decision Trees, and Neural Networks
 
-Implementation and comparison of three classification algorithms - Support Vector Machines (SVM), Decision Trees, and Neural Networks - on publicly available heart disease data (Donald Bren School of Information and Computer Sciences (ICS), Cleveland Clinic, Heart Disease Data, https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/). The primary goal was to improve classification accuracy by fine-tuning the models and employing decision fusion.
+Implementation and comparison of three classification algorithms - Support Vector Machines (SVM), Decision Trees, and Neural Networks - on publicly available heart disease data. The dataset  is already preprocessed.
+    (Donald Bren School of Information and Computer Sciences (ICS), Cleveland Clinic, Heart Disease Data, https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/). 
+The primary goal was to improve classification accuracy by fine-tuning the models and employing decision fusion.
 
 ### Methodology
 
