@@ -1,6 +1,7 @@
 ## Classification Comparison and fusion: SVM, Decision Trees, and Neural Networks
 
-Implementation and comparison of three classification algorithms - Support Vector Machines (SVM), Decision Trees, and Neural Networks - on publicly available heart disease data. The dataset  is already preprocessed.
+Implementation and comparison of three classification algorithms - Support Vector Machines (SVM), Decision Trees, and Neural Networks - on publicly available heart disease data. The dataset is already preprocessed and the classification was performed using scikit-learn. 
+
     (Donald Bren School of Information and Computer Sciences (ICS), Cleveland Clinic, Heart Disease Data, https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/). 
 The primary goal was to improve classification accuracy by fine-tuning the models and employing decision fusion.
 
@@ -12,7 +13,7 @@ The primary goal was to improve classification accuracy by fine-tuning the model
     Model Fusion: Combined predictions from each model using majority voting.
     Evaluation and Comparison: Evaluated the fused predictions and compared them to individual model predictions.
 
-Results
+### Results
 
     Support Vector Machines: Highest average accuracy achieved was 0.5833 with a linear kernel using the original feature set.
     
@@ -28,7 +29,7 @@ Results
 
     
     
-Conclusion
+### Conclusion
 
 Confusion Matrix:
 
