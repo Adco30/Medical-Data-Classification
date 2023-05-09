@@ -42,5 +42,5 @@ Confusion Matrix:
 Loss Curve and Accuracy Curve:
 
 
-Suggestions for Future Work![im](https://user-images.githubusercontent.com/97653144/236654927-84d6d3d9-944b-41a3-8224-ebca64b6b10b.png)
+[im](https://user-images.githubusercontent.com/97653144/236654927-84d6d3d9-944b-41a3-8224-ebca64b6b10b.png)
 
