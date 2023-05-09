@@ -38,9 +38,3 @@ Confusion Matrix:
     Neural Network models provided the best classification accuracy at 0.6333 among the three algorithms tested.
     The Decision Fusion using Majority Voting method had an accuracy of 0.5222, lower than the accuracy of any individual model.
     Other selection techniques such as RFE and PCA were valuable in improving the accuracy of decision trees but did not have a big impact on the SVM and Neural Network models.
-
-Loss Curve and Accuracy Curve:
-
-
-[im](https://user-images.githubusercontent.com/97653144/236654927-84d6d3d9-944b-41a3-8224-ebca64b6b10b.png)
-
